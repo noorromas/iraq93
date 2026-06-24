@@ -99,11 +99,7 @@ span.flex-grow-1.dots {
 \
     width: 60%!important;
 \
-}
-\
- img.fl, span.btn.fr.btn-success.fa.fa-refresh {
-\
-    display: none
+
 \
 }
 \
