@@ -216,15 +216,7 @@ div#tlogins ::-webkit-scrollbar-track {
     padding-right: 1px;
     background-color: #fafafa;
 
-}
-.uzr .fitimg {
-    background-size: cover;
-    margin: 0;
-    border-radius: 5px;
-    border: 2px solid #595959;
-    width: 50px!important;
-    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 1px 8px #cbb0c8;
-    height: 50px!important;
+
 }
 \
 #des0 {
