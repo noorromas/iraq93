@@ -215,8 +215,10 @@ div#tlogins ::-webkit-scrollbar-track {
     border-bottom: 1px solid lavender;
     padding-right: 1px;
     background-color: #fafafa;
-
-
+}
+.ae {
+    max-width: 80px;
+margin: 1px;
 }
 \
 #des0 {
